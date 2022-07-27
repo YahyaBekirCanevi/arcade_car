@@ -1,3 +1,1 @@
-*.shader linguist-detectable=false
-
-*.hlsl linguist-detectable=false
+*.shader *.hlsl linguist-detectable=false
